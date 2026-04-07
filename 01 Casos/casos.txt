@@ -1,0 +1,491 @@
+# Caso 4: Caso Penta — Financiamiento político ilegal y fraude tributario
+
+**Carpeta:** `Corrupción Chile / 01_Casos`
+**Estado:** ✅ Ficha completa — factor IPC verificado en calculadora oficial INE
+
+---
+
+## Naturaleza del caso — distinción metodológica
+
+Al igual que el Caso SQM, el Penta no involucra sustracción directa de fondos públicos. El mecanismo fue evasión tributaria mediante boletas y facturas ideológicamente falsas, usadas para reducir la base imponible del holding y financiar ilegalmente campañas políticas. La diferencia con SQM es que aquí sí hubo condenas efectivas a los controladores del grupo, aunque todas cumplidas en libertad.
+
+El dinero que nunca llegó al fisco —y que por tanto no pudo destinarse a beneficios sociales— es el monto total evadido y luego recuperado por el Estado solo tras ser descubierto. Usamos los $10.000 MM como monto base con la aclaración explícita de que esa plata fue recuperada únicamente porque hubo una investigación judicial. Sin esa investigación, el Estado nunca habría visto ese dinero.
+
+---
+
+## Montos y ajuste inflacionario
+
+| Concepto | Monto |
+|---|---|
+| Total pagado por Penta al fisco (impuestos + intereses + reajustes) | ~$10.000 MM CLP |
+| Perjuicio fiscal acreditado judicialmente (Délano y Lavín) | ~$1.700 MM CLP |
+| Multa pagada por Délano | $857 MM CLP |
+| Multa pagada por Lavín | $857 MM CLP |
+| Denuncia inicial del SII (agosto 2014) | $260–$660 MM CLP |
+| Año de referencia para ajuste IPC | 2014 (año de inicio de la investigación) |
+| Factor IPC acumulado diciembre 2014 → diciembre 2025 | ×1,620 (verificado en calculadora oficial INE) |
+| **Monto ajustado a pesos de diciembre 2025** | **~$16.200 MM CLP** |
+
+**Decisión metodológica:** Se usan los $10.000 MM como monto base por ser la cifra más representativa del daño total al Estado, citada consistentemente en fuentes y reconocida por Wikipedia con respaldo de fuentes primarias. Incluye impuestos adeudados, intereses y reajustes pagados por Empresas Penta, sociedades familiares y los controladores como personas naturales. El disclaimer señala que este monto fue recuperado solo porque hubo investigación judicial, y que sin ella el Estado nunca habría tenido acceso a esos recursos.
+
+**Nivel de disclaimer:** "Dato estimado". El monto de $10.000 MM es el total recuperado, no el perjuicio fiscal original. El perjuicio acreditado en la condena de Délano y Lavín fue de $1.700 MM, notoriamente menor porque la Fiscalía redujo los cargos en el procedimiento abreviado. La diferencia refleja tanto la negociación procesal como la dificultad de acreditar el daño total en un juicio abreviado.
+
+---
+
+## Tabla de fuentes con links
+
+| Fuente | Contenido | Tipo | Fecha | Link |
+|---|---|---|---|---|
+| CIPER Chile (destapa el caso) | Primera investigación sobre boletas falsas y financiamiento UDI | Investigativa | Octubre 2014 | [ver nota](https://www.ciperchile.cl/2014/10/16/penta-evadiia-impuestos-y-los-candidatos-recibian-dinero-en-negro/) |
+| CIPER Chile (8 años del caso) | Balance completo: condenas, penas cumplidas, estado final de involucrados | Investigativa | Septiembre 2022 | [ver nota](https://www.ciperchile.cl/2022/09/23/se-cumplen-ocho-anos-del-caso-penta-delano-y-lavin-completaron-su-condena-tras-egresar-de-un-programa-psicosocial/) |
+| El Mostrador (condena Délano y Lavín) | Sentencia 4 años libertad vigilada, multa $857 MM cada uno | Periodística | Julio 2018 | [ver nota](https://www.elmostrador.cl/dia/2018/07/09/caso-penta-justicia-condena-a-delano-y-lavin-a-cuatro-anos-de-libertad-vigilada-y-pago-de-multa/) |
+| La Tercera (acuerdo abreviado) | Detalles del acuerdo Délano-Lavín-Wagner con la Fiscalía | Periodística | Julio 2018 | [ver nota](https://www.latercera.com/politica/noticia/caso-penta-llega-fin-delano-lavin-acuerdan-pena-remitida-cuatro-anos/147833/) |
+| La Tercera (condena Délano y Lavín) | Sentencia definitiva: 4 años libertad vigilada, perjuicio $1.700 MM | Periodística | Julio 2018 | [ver nota](https://www.latercera.com/nacional/noticia/caso-penta-juzgado-dara-conocer-hoy-sentencia-carlos-delano-carlos-lavin/235971/) |
+| Diario Financiero (detalles sentencia) | Perjuicio fiscal $1.700 MM, reparación $6.000 MM como atenuante | Periodística especializada | Julio 2018 | [ver nota](https://www.df.cl/economia-y-politica/actualidad/conoce-la-condena-que-la-justicia-dictamino-para-delano-y-lavin-por-caso) |
+| T13 (condena Novoa) | Primera condena política del caso: 3 años pena remitida | Periodística | Noviembre 2015 | [ver nota](https://www.t13.cl/noticia/politica/caso-penta-jovino-novoa-condenado-3-anos-delitos-tributarios) |
+| T13 (fin del caso) | Tabla sistematizada de condenas, abreviados y salidas alternativas | Periodística | Julio 2018 | [ver nota](https://www.t13.cl/noticia/politica/caso-penta-deja-condenas-juicios-abreviados-y-suspensiones) |
+| T13 (Moreira sobreseído) | Sobreseimiento definitivo de Moreira tras suspensión condicional | Periodística | Febrero 2019 | [ver nota](https://www.t13.cl/noticia/politica/caso-penta-ivan-moreira-es-sobreseido-definitivamente) |
+| Radio U. de Chile (Moreira sobreseído) | Detalles del sobreseimiento y críticas de Gajardo | Periodística | Febrero 2019 | [ver nota](https://radio.uchile.cl/2019/02/03/ivan-moreira-sobreseido-por-financiamiento-irregular-en-caso-penta/) |
+| Cooperativa (Novoa cumple condena) | Novoa termina condena en marzo 2019 sin haber ido a la cárcel | Periodística | Marzo 2019 | [ver nota](https://cooperativa.cl/noticias/pais/politica/caso-penta/jovino-novoa-cumplio-su-condena-en-el-caso-penta-ahora-puede-optar-a/2019-03-29/072739.html) |
+| Wikipedia (caso completo con fuentes) | Cronología completa, involucrados, condenas y conexión con SQM | Enciclopédica | 2025 | [ver nota](https://es.wikipedia.org/wiki/Caso_Penta) |
+| 8° Juzgado de Garantía / medios (cierre del caso) | Condena a Marcos Castro y Empresas Penta SA en juicio oral: perjuicio fiscal >$2.471 MM, 3 años remisión condicional, multas y prohibición de contratos con el Estado | Periodística | Marzo 2025 | Sentencia definitiva — última arista del caso |
+
+---
+
+## Involucrados, roles y cercanía política
+
+### Controladores y ejecutivos de Penta — con condena
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Carlos Alberto Délano Abbott** | Controlador del Grupo Penta. Organizador y principal beneficiario del sistema de boletas falsas. Amigo personal declarado de Sebastián Piñera. | 4 años libertad vigilada intensiva + multa $857 MM + inhabilitación perpetua derechos políticos. Condena cumplida en julio 2022. | Sin militancia conocida. Empresario. Donante histórico de la UDI y RN. Amigo personal de Piñera. |
+| **Carlos Eugenio Lavín García-Huidobro** | Controlador del Grupo Penta. Coorganizador del sistema fraudulento junto a Délano. | 4 años libertad vigilada intensiva + multa $857 MM + inhabilitación perpetua derechos políticos. Condena cumplida en julio 2022. | Sin militancia conocida. Empresario. |
+| **Hugo Bravo López** | Exgerente general de Penta. Quien reveló ante la Fiscalía los pagos a políticos UDI. Fue él quien destapó el caso al declarar. | Condena en procedimiento abreviado | Sin militancia conocida. Ejecutivo corporativo. |
+| **Marcos Castro** | Exgerente de Penta. Ejecutor contable del sistema de boletas falsas. Fue juzgado en juicio oral junto a Empresas Penta SA e Inversiones Penta III Ltda. en la última arista del caso. | Condenado en procedimiento abreviado (2015) y posteriormente en juicio oral (marzo 2025): 3 años remisión condicional + multa ~$27 MM. Empresas Penta condenadas a 3 años de prohibición de contratos con el Estado + multa 10.000 UTM. Perjuicio acreditado: más de $2.471 MM. Esta sentencia cierra formalmente el Caso Penta. | Sin militancia conocida. |
+| **Orlando Carvajal** | Contador. Primera condena del caso (antes que Novoa): 5 años libertad vigilada por fraude tributario y soborno. | 5 años libertad vigilada. Primera sentencia del caso. | Sin militancia conocida. |
+
+### Políticos — con condena
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Jovino Novoa Vásquez** | Exsenador y expresidente de la UDI. Facilitó 17 boletas falsas a Penta entre 2008 y 2013. Primer político condenado del caso. | 3 años presidio menor, pena remitida + multa $7,6 MM. Condena cumplida en marzo 2019. | **UDI.** Expresidente del partido. Figura histórica del gremialismo. |
+| **Pablo Wagner Rodríguez** | Exsubsecretario de Minería (2010–2012). Recibió $66 MM de Penta a través de boletas a nombre de su cuñada mientras ejercía el cargo. Nodo de conexión entre Penta y SQM (ver nota de conexión). | 2 años pena remitida + 3 años inhabilitación cargos públicos. Condena cumplida. | **UDI.** Renunció a militancia en enero 2015. |
+
+### Políticos — sobreseídos o con salida alternativa
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Iván Moreira Barros** | Senador UDI. Facilitó boletas falsas a Penta por $35 MM para campaña senatorial 2013. Inicialmente negó todo. | Sobreseído definitivamente (febrero 2019) tras suspensión condicional + multa $35 MM. | **UDI.** Senador. Renunció a la directiva del partido en marzo 2015. |
+| **Laurence Golborne Riveros** | Exministro de Obras Públicas y ex precandidato presidencial UDI. Penta financió su campaña presidencial. | Suspensión condicional (septiembre 2019) + pago $11,4 MM. Sobreseído al año. | **UDI / Independiente.** Exministro de Piñera. Precandidato presidencial. |
+| **Felipe De Mussy Hiriart** | Diputado UDI. Imputado por financiamiento irregular. | Salida alternativa. Sobreseído. | **UDI.** Diputado en ejercicio al momento del caso. |
+| **Pablo Zalaquett Said** | Exalcalde de Santiago. Receptor de fondos canalizados a través de empresas vinculadas. También involucrado en Caso SQM. | Salida alternativa | **UDI.** Exalcalde de Santiago. |
+| **Alberto Cardemil Herrera** | Exdiputado RN. Penta habría financiado su campaña a través de dos abogados como intermediarios. | Salida alternativa | **RN.** Exdiputado. |
+| **Alberto Undurraga Vicuña** | Diputado DC. La Fundación Ciudad Justa, que presidió, recibió pagos de Penta por un estudio. | Sin formalización. Desvinculado del caso. | **DC.** Diputado. Posterior ministro de Obras Públicas de Bachelet II. |
+
+### Políticos vinculados pero no formalizados
+
+| Nombre | Partido | Situación |
+|---|---|---|
+| **Ena Von Baer Jahn** | UDI (senadora) | Mencionada en correos como beneficiaria. Citada a declarar. Negó irregularidades. Sin formalización. |
+| **Andrés Velasco Brañes** | Independiente (ex precandidato presidencial) | PDI allanó su domicilio. Declaró ante Fiscalía. Sin formalización. |
+| **Ernesto Silva Méndez** | UDI (extimonel del partido) | Renunció a la directiva en marzo 2015. Sin formalización. |
+
+**Nota sobre conexión con SQM:** El Caso Penta y el Caso SQM están anudados a través de varios nodos comunes. Pablo Zalaquett aparece condenado en SQM y con salida alternativa en Penta. Pablo Wagner recibía pagos de Penta mientras favorecía a SQM en la licitación del litio. El fiscal Carlos Gajardo inició ambas investigaciones simultáneamente: fue él quien, durante la investigación del Penta, solicitó información sobre 19 personas vinculadas a boletas de SQM. Esta conexión se documenta en las fichas de ambos casos y se abordará editorialmente en la app.
+
+---
+
+## Descripción para la app
+
+En agosto de 2014, el Servicio de Impuestos Internos denunció al Grupo Penta —controlado por Carlos Délano y Carlos Lavín, amigos personales del expresidente Sebastián Piñera— por uso masivo de boletas y facturas ideológicamente falsas para reducir su carga tributaria y financiar ilegalmente campañas políticas, principalmente de la UDI. Durante años, ese dinero nunca llegó al fisco: fue recuperado solo porque hubo una investigación judicial que pudo no haber ocurrido. En total, Penta pagó cerca de $10.000 millones en impuestos adeudados, intereses y reajustes, equivalentes a unos $16.200 millones a pesos de diciembre de 2025. Délano y Lavín fueron condenados a cuatro años de libertad vigilada —nunca pisaron la cárcel— y completaron su condena en 2022 tras un curso de ética en la Universidad Adolfo Ibáñez. El político más prominente condenado fue el exsenador y expresidente de la UDI Jovino Novoa, quien firmó mensualmente en el Centro de Reinserción Social de Ñuñoa. Iván Moreira fue sobreseído tras pagar una multa de $35 millones. El caso reveló que el financiamiento ilegal de la política no distinguía colores: involucró desde la UDI hasta la DC y el PS, y destapó la investigación del Caso SQM, con el que comparte varios protagonistas.
+
+---
+
+## Notas pendientes
+
+- [x] ~~Verificar factor IPC diciembre 2014 → diciembre 2025~~ — **Completado en sesión anterior.** Factor ×1,620 verificado en calculadora oficial INE. Monto ajustado: ~$16.200 MM CLP.
+- [x] ~~Calcular monto ajustado definitivo~~ — **Completado.** ~$16.200 MM CLP a pesos de diciembre 2025.
+- [x] ~~Confirmar si Ena Von Baer tuvo alguna formalización posterior o solo declaró como testigo~~ — **Verificado marzo 2026.** Von Baer declaró como imputada en abril 2015 durante más de cinco horas pero nunca fue formalizada. El "Caso Penta II" (RUC separado para imputados no formalizados) no registra acciones judiciales posteriores contra ella. Situación: investigación archivada de facto.
+- [x] ~~Revisar si hay aristas pendientes del caso después de 2022~~ — **Verificado marzo 2026.** Sí había arista activa. En marzo 2025, el 8° Juzgado de Garantía de Santiago condenó a Marcos Castro Sanguinetti y a las empresas Penta SA e Inversiones Penta III Ltda. por soborno y delitos tributarios (perjuicio >$2.471 MM). Esta sentencia cierra formalmente el Caso Penta. Actualizado en tabla de involucrados y tabla de fuentes.
+# Caso 3: Caso SQM — Financiamiento político ilegal
+
+**Carpeta:** `Corrupción Chile / 01_Casos`
+**Estado:** ✅ Ficha completa — factor IPC verificado en calculadora oficial INE
+
+---
+
+## Naturaleza del caso — distinción metodológica fundamental
+
+Este caso es estructuralmente distinto a los anteriores. No se trata de sustracción directa de fondos públicos ni malversación del erario. El mecanismo fue el siguiente: SQM pagó US$14,7 millones a través de boletas y facturas ideológicamente falsas —por servicios que nunca se prestaron— para financiar ilegalmente campañas y partidos políticos. Ese dinero nunca llegó al fisco porque fue declarado como gasto empresarial deducible de impuestos, constituyendo evasión tributaria. El daño al Estado es indirecto pero real: dinero que debió tributar y no lo hizo, y que distorsionó el sistema democrático al generar deuda política implícita entre empresas privadas y tomadores de decisiones públicas.
+
+Para los efectos de este proyecto, el argumento es consistente con los casos anteriores: es dinero que nunca llegó al Estado y que, por lo tanto, no pudo destinarse a beneficios sociales concretos. La distinción entre sustracción directa y evasión tributaria queda explicitada en el disclaimer del caso dentro de la app.
+
+---
+
+## Montos y ajuste inflacionario
+
+| Concepto | Monto |
+|---|---|
+| Total pagos ilegales de SQM (2008–2014) | US$14,7 MM |
+| Tipo de cambio promedio 2008–2014 (Banco Central) | ~$518 CLP/USD |
+| **Monto base en pesos CLP (promedio del período)** | **~$7.615 MM CLP** |
+| Año de referencia para ajuste IPC | 2011 (año promedio del período) |
+| Factor IPC acumulado diciembre 2011 → diciembre 2025 | ×1,773 (verificado en calculadora oficial INE) |
+| **Monto ajustado a pesos de diciembre 2025** | **~$13.500 MM CLP** |
+| Monto acordado por SQM con la Fiscalía chilena | $2.550 MM CLP |
+| Multas recaudadas por SII a 28 empresas | $3.700 MM CLP |
+| **Total recuperado por el fisco chileno** | **$4.600 MM CLP** |
+| Multa pagada por SQM en EE.UU. (violación FCPA) | US$30 MM |
+
+**Metodología del ajuste inflacionario:** Los US$14,7 MM se convirtieron a pesos usando el tipo de cambio promedio del período 2008–2014 según datos del Banco Central (~$518 CLP/USD), obteniendo $7.615 MM CLP. El factor de ajuste ×1,773 fue obtenido directamente desde la calculadora oficial del INE (https://calculadoraipc.ine.cl), ingresando $1.000 pesos de diciembre 2011 y proyectando a diciembre 2025. Se usó 2011 como año de referencia por ser el punto medio del período en que ocurrieron los pagos ilegales. El INE utiliza empalme entre bases históricas, por lo que este valor tiene precedencia metodológica sobre cualquier cálculo alternativo.
+
+**Decisión metodológica:** Se usa el total de pagos ilegales de US$14,7 MM como monto base por ser la cifra establecida por el propio informe encargado por SQM (Shearman & Sterling, 2015), reconocida ante la justicia estadounidense en 2017 y citada de forma consistente por todas las fuentes. El monto recuperado por el fisco chileno ($4.600 MM) es notoriamente menor porque la mayoría de los involucrados accedió a salidas alternativas, fue sobreseído o absuelto.
+
+**Nivel de disclaimer:** "Dato estimado con complejidad metodológica". El monto base está bien documentado pero corresponde a pagos ilegales totales, no a daño fiscal directo calculado con certeza. El desenlace judicial en Chile fue de impunidad casi total: 10 condenas simbólicas, 132 salidas alternativas, 69 sobreseídos por prescripción y absolución de los 8 principales acusados en octubre de 2025. **Nota de estado procesal (marzo 2026):** el veredicto absolutorio fue comunicado en octubre 2025 pero la sentencia escrita está programada para el 5 de agosto de 2026. La Fiscalía declaró que esperará esa sentencia para decidir si presenta recurso de nulidad. El caso no está cerrado definitivamente.
+
+---
+
+## Tabla de fuentes con links
+
+| Fuente | Contenido | Tipo | Fecha | Link |
+|---|---|---|---|---|
+| CIPER Chile (cifras finales del caso) | Balance completo: 10 condenados, 132 salidas alternativas, $4.600 MM recaudados, 8 absueltos | Investigativa | Octubre 2025 | [ver nota](https://www.ciperchile.cl/2025/10/23/las-verdaderas-cifras-del-caso-sqm-10-condenados-132-acogidos-a-salida-alternativa-4-600-millones-recaudados-por-el-fisco-y-8-absueltos/) |
+| CIPER Chile (entierro del caso) | Cómo se fraguó la impunidad; rol de Peñailillo y Arenas en presiones al SII | Investigativa | Abril 2018 | [ver nota](https://www.ciperchile.cl/2018/04/16/el-entierro-del-caso-sqm-asi-se-fraguo-la-impunidad-para-el-financiamiento-politico-ilegal/) |
+| CIPER Chile (34 imputados que zafaron) | Evidencia acumulada contra los que no fueron a juicio por inacción del SII | Investigativa | Agosto 2021 | [ver nota](https://www.ciperchile.cl/2021/08/04/platas-politicas-de-sqm-la-evidencia-que-acumulo-la-fiscalia-contra-los-34-imputados-que-zafaron-del-juicio/) |
+| CIPER Chile (nombres y conexiones) | Lista de empresas y sus vínculos políticos que facturaron a SQM | Investigativa | Abril 2015 | [ver nota](https://www.ciperchile.cl/2015/04/02/los-nombres-y-conexiones-politicas-detras-de-las-empresas-que-facturaron-a-sqm/) |
+| CIPER Chile (Tribunales Tributarios) | 28 empresas sancionadas, $3.700 MM en multas, nómina completa | Investigativa | Diciembre 2020 | [ver nota](https://www.ciperchile.cl/2020/12/29/la-lista-que-el-mundo-politico-queria-enterrar-los-involucrados-en-platas-ilegales-que-figuran-en-los-tribunales-tributarios/) |
+| CIPER Chile (SQM ante EE.UU.) | SQM reconoce "pagos indebidos" ante el DOJ; multa US$30 MM | Investigativa | Enero 2017 | [ver nota](https://www.ciperchile.cl/2017/01/16/sqm-admite-ante-justicia-de-ee-uu-que-hizo-pagos-indebidos-a-politicos/) |
+| CIPER Chile (especial financiamiento) | Portal completo de investigaciones sobre financiamiento ilegal de la política | Investigativa | Múltiple | [ver portal](https://www.ciperchile.cl/especiales/financiamiento-irregular-politica/) |
+| La Tercera (34 imputados) | Nómina de los 34 que no enfrentaron juicio, incluyendo Peñailillo | Periodística | Agosto 2021 | [ver nota](https://www.latercera.com/politica/noticia/caso-sqm-fiscalia-decide-no-perseverar-contra-34-investigados-entre-ellos-el-exministro-penailillo/7RSEIQIRCJECVHFF2PH62DIM3Y/) |
+| Wikipedia (caso completo con fuentes) | Resumen completo con distribución por partidos políticos y cronología | Enciclopédica | Octubre 2025 | [ver nota](https://es.wikipedia.org/wiki/Caso_SQM) |
+| Informe Shearman & Sterling (2015) | US$14,7 MM a 223 proveedores, 1.425 boletas falsas | Documento corporativo / fuente primaria | 2015 | Citado en CIPER y Wikipedia |
+| DOJ / SEC EE.UU. (acuerdo FCPA) | SQM reconoce pagos indebidos; multa US$30 MM; 5 funcionarios individualizados | Judicial internacional | Enero 2017 | Citado en nota CIPER arriba |
+
+---
+
+## Involucrados, roles y cercanía política
+
+### Controladores y ejecutivos de SQM
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Julio Ponce Lerou** | Controlador y presidente de SQM. Yerno de Augusto Pinochet. Beneficiario del sistema que financiaba política para proteger sus intereses empresariales. | Sin formalización en causa principal | **Conexión directa con la dictadura militar.** Empresario que opera en democracia. |
+| **Patricio Contesse González** | Gerente general de SQM por 25 años. Ejecutor directo del 97% de los pagos ilegales. En 2018 declaró: "Estimé que era necesario apoyar la actividad política bajo cierto marco que iba más allá del Servel". | **Absuelto octubre 2025** | Sin militancia conocida. Ejecutivo corporativo. |
+
+### Políticos y operadores con condena
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Giorgio Martelli** | Operador y recaudador político. Canalizó fondos de SQM hacia campañas de Frei y Bachelet. Monto recibido: +$342 MM. | 800 días pena cumplida en libertad + multa ~$3 MM | DC / PS. Operador de la Concertación. |
+| **Clara Bensan** | Contadora. Gestionó boletas falsas vinculadas a la campaña presidencial de Frei. | Condena en juicio abreviado | Ligada a DC. |
+| **Pablo Zalaquett** | Exalcalde de Santiago. Receptor indirecto de fondos para campaña senatorial 2013 a través de Reactor SpA y Asesorías Cristina Zúñiga. | Condena en juicio abreviado | **UDI.** Exalcalde de Santiago. |
+
+### Políticos absueltos en octubre 2025 (juicio oral)
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Pablo Longueira** | Receptor de pagos directos. Identificado por el DOJ de EE.UU. como "funcionario chileno 2". | **Absuelto octubre 2025** | **UDI.** Exsenador, exministro de Economía en gobierno de Piñera. |
+| **Marco Enríquez-Ominami (MEO)** | Receptor de pagos canalizados a través de la Fundación Progresa y empresa de Cristián Warner. | **Absuelto octubre 2025** | **PRO.** Candidato presidencial 2009 y 2013. |
+| **Jaime Orpis** | Identificado por el DOJ como "funcionario chileno 1". | **Absuelto octubre 2025** | **UDI.** Senador. |
+| **Pablo Wagner** | Identificado por el DOJ como "funcionario chileno 3". Su cuñada recibió pagos para la campaña de Joaquín Lavín. | **Absuelto octubre 2025** | **UDI.** Exsubsecretario de Minería. |
+
+### Políticos que escaparon del juicio sin llegar a formalización
+
+| Nombre | Partido | Razón de escape |
+|---|---|---|
+| **Rodrigo Peñailillo** | PPD (exministro del Interior, gobierno Bachelet II) | SII no presentó querella. Él mismo encabezó las presiones sobre el SII en 2015 para frenar la investigación. |
+| **Alberto Arenas** | PS (exministro de Hacienda, gobierno Bachelet II) | Co-encabezó junto a Peñailillo las presiones al SII en 2015. SII no presentó querella. |
+| **Fulvio Rossi** | PS (exsenador) | Corte Suprema rechazó desafuero en 2018. |
+| **Jorge Pizarro** | DC (vicepresidente del Senado) | Sus hijos Jorge y Benjamín Pizarro Cristi libraron del proceso por inacción del SII. |
+| **Harold Correa** | PPD (exjefe de gabinete del exministro Nicolás Eyzaguirre) | SII no presentó querella. |
+
+### Distribución por partidos (según informe Shearman & Sterling)
+
+| Partido | % de políticos vinculados a pagos |
+|---|---|
+| UDI | 45% |
+| RN | 11% |
+| DC | 11% |
+| PRI | 10% |
+| PS | 8% |
+| PRSD | 7% |
+| PPD | 3% |
+
+**Nota sobre cercanía política:** El Caso SQM es el único de los cinco que involucra a todo el espectro político chileno, desde la UDI hasta el PS, incluyendo campañas presidenciales de Frei (2009), Bachelet (2013) y candidaturas de Piñera, Longueira, MEO, Lavín y Wagner. Es también el único caso donde hay evidencia documentada de presiones desde el propio gobierno —Peñailillo y Arenas— para obstaculizar la investigación judicial. El desenlace de impunidad casi total es en sí mismo parte del daño democrático que el caso produjo.
+
+---
+
+## Descripción para la app
+
+Entre 2008 y 2014, la empresa minera SQM —controlada por Julio Ponce Lerou, yerno del dictador Augusto Pinochet— pagó US$14,7 millones a través de boletas y facturas por servicios que nunca se prestaron, con el objetivo de financiar ilegalmente campañas y partidos políticos de todo el espectro, desde la UDI hasta el PS. El mecanismo funcionaba declarando esos pagos como gastos empresariales deducibles de impuestos: dinero que nunca llegó al fisco y que, por lo tanto, nunca pudo destinarse a beneficios sociales. Ajustado por inflación a pesos de diciembre de 2025, ese monto equivale a cerca de $13.500 millones. El caso involucró más de 180 personas y fue reconocido por la propia SQM ante la justicia de Estados Unidos en 2017. En Chile, sin embargo, terminó en impunidad casi total: en octubre de 2025 un tribunal absolvió a los ocho principales acusados —entre ellos el exlíder de la UDI Pablo Longueira y el excandidato presidencial Marco Enríquez-Ominami— argumentando vicios del proceso. El fisco recuperó apenas $4.600 millones de los más de $13.500 millones que nunca tributaron.
+
+**Nota metodológica para la app:** A diferencia de los otros casos, aquí no hubo sustracción directa de fondos públicos. El daño es la evasión tributaria que privó al Estado de recursos y la distorsión del sistema democrático al generar deuda política implícita entre una empresa privada y los tomadores de decisiones públicas. Los escenarios de impacto social se calculan sobre el monto total que nunca llegó al fisco.
+
+---
+
+## Notas pendientes
+
+- [x] ~~Confirmar tipo de cambio promedio 2008–2014 con datos oficiales del Banco Central~~ — **Verificado marzo 2026.** Los promedios anuales del dólar observado (Banco Central) para el período son: 2008 ~$522, 2009 ~$560, 2010 ~$510, 2011 ~$484, 2012 ~$486, 2013 ~$495, 2014 ~$570. Promedio del período: ~$518 CLP/USD. El valor usado en la ficha es correcto. Fuente: dólar observado Banco Central de Chile.
+- [x] ~~Confirmar estado procesal final tras absolución de octubre 2025~~ — **Verificado marzo 2026.** La sentencia escrita está programada para el 5 de agosto de 2026. La Fiscalía ha declarado que evaluará recurso de nulidad una vez comunicada esa sentencia. Hay un voto de minoría de la jueza Paredes favorable a la condena. El caso no está cerrado. Se incorporó este dato al nivel de disclaimer de la ficha.
+- [x] ~~Revisar si el DOJ de EE.UU. mantiene investigación abierta tras cambio de administración Trump~~ — **Verificado marzo 2026.** El acuerdo FCPA de 2017 ya estaba ejecutado (SQM pagó los US$30 MM). Los acuerdos FCPA ejecutados no se revierten. Sin impacto en la ficha.
+# Caso 1: Corfo-Inverlink
+
+**Carpeta:** `Corrupción Chile / 01_Casos`
+**Estado:** ✅ Ficha completa — factor IPC verificado en calculadora oficial INE
+
+---
+
+## Montos y ajuste inflacionario
+
+| Concepto | Monto |
+|---|---|
+| Monto sustraído de CORFO (pesos diciembre 2003) | $85.000 MM CLP (~US$105 MM) |
+| Factor IPC acumulado diciembre 2003 → diciembre 2025 | ×2,364 (inflación acumulada ~136%) |
+| **Monto ajustado a pesos de diciembre 2025** | **~$200.940 MM CLP** |
+| Monto total estimado incluyendo otros afectados | ~$110.000 MM CLP (pesos 2003) |
+| Monto ordenado en primera instancia (juez Gajardo) | $61.372 MM CLP |
+| Monto confirmado judicialmente (Corte Suprema, arista penal) | $26.462 MM CLP |
+| Monto recuperado por CORFO a 2023 | $55.696 MM CLP |
+| Monto aún en disputa judicial | ~$29.000 MM CLP |
+
+**Metodología del ajuste inflacionario:** Factor ×2,364 obtenido directamente desde la calculadora oficial del INE (https://calculadoraipc.ine.cl), ingresando $1.000 pesos de diciembre 2003 y proyectando a diciembre 2025. El INE utiliza empalme entre bases históricas distintas, por lo que este valor difiere de la suma simple de tasas anuales y tiene precedencia metodológica sobre cualquier cálculo alternativo. Se usa diciembre 2025 como año de referencia por ser el año cerrado más reciente con dato completo disponible. Este criterio se aplica de forma uniforme a todos los casos del proyecto.
+
+**Decisión metodológica:** Se usa $85.000 MM como monto base por ser la cifra más consistente entre fuentes independientes y la que corresponde estrictamente al daño al patrimonio público de CORFO. Algunas fuentes estiman que el daño total, considerando al Banco Central, municipios y otros afectados, superó los $110.000 MM. Este proyecto trabaja solo con el daño directo a CORFO.
+
+**Nivel de disclaimer:** Dato con alta consistencia entre fuentes periodísticas, judiciales e investigativas. El monto judicial formal es menor ($26.462 MM), pero refleja solo lo ordenado restituir en condenas penales, no el total sustraído.
+
+---
+
+## Tabla de fuentes con links
+
+| Fuente | Monto citado | Tipo | Fecha | Link |
+|---|---|---|---|---|
+| CIPER Chile | $85.000 MM | Investigativa | 2013 | [ver nota](https://www.ciperchile.cl/radar/a-10-anos-del-caso-inverlink-aun-se-avizora-un-largo-camino-judicial/) |
+| La Tercera (20 años del caso) | $85.000 MM | Periodística | Enero 2023 | [ver nota](https://www.latercera.com/pulso/noticia/a-20-anos-del-caso-inverlink-que-fue-de-sus-protagonistas-y-cuanto-ha-recuperado-la-corfo/3TCLW64ACBA7VC5F5XNM6DJALE/) |
+| La Tercera (15 años del caso) | $85.000 MM | Periodística | Marzo 2020 | [ver nota](https://www.latercera.com/pulso/15-anos-del-caso-inverlink-los-30-mil-millones-faltan-recuperar-jarron-perdido/) |
+| La Tercera (acuerdo municipios) | $85.000 MM | Periodística | Febrero 2020 | [ver nota](https://www.latercera.com/pulso/noticia/inverlink-corfo-llega-acuerdo-municipios-vina-del-mar-la-pintana/442802/) |
+| El Mostrador | $84.000 MM | Periodística | Marzo 2012 | [ver nota](https://www.elmostrador.cl/mercados/destacados-mercado/2012/03/31/bbva/) |
+| T13 (sentencia 13 imputados) | $85.000 MM | Judicial citada | Julio 2015 | [ver nota](https://www.t13.cl/noticia/negocios/caso-inverlink-dictan-sentencia-y-presidio-contra-13-imputados) |
+| T13 (Corte Suprema confirma) | $85.000 MM | Judicial citada | 2015 | [ver nota](https://www.t13.cl/noticia/negocios/caso-inverlink-corte-suprema-confirma-condenas-tres-imputados-y-dos-absueltos) |
+| T13 (Suprema ratifica condena) | $85.000 MM | Judicial citada | 2015 | [ver nota](https://www.t13.cl/noticia/nacional/caso-inverlink-corte-suprema-ratifica-condena-a-siete-ex-ejecutivos) |
+| Radio U. de Chile | +$100 MM USD | Periodística | Julio 2015 | [ver nota](https://radio.uchile.cl/2015/07/28/justicia-condena-a-13-imputados-por-el-caso-inverlink/) |
+| Poder Judicial TV | ~$84.000 MM | Judicial | s/f | [ver nota](https://www.poderjudicialtv.cl/programas/fallos-historicos/noticiero-judicial-fallo-historico-caso-inverlink/) |
+| Wikipedia (con fuentes) | +$100 MM USD | Enciclopédica | 2024 | [ver nota](https://es.wikipedia.org/wiki/Caso_Inverlink) |
+| U. de Chile (repositorio académico) | No establece total | Académica | 2003 | [ver documento](https://repositorio.uchile.cl/bitstream/handle/2250/108173/morales_d.pdf) |
+
+---
+
+## Estado judicial actualizado (post-2022)
+
+No existen sentencias penales nuevas después de 2022. La última actividad judicial relevante fue en **febrero de 2022**, cuando la Corte Suprema confirmó la restitución de $692 millones por parte de Julio Coloma Henríquez en una arista civil menor.
+
+Lo que sí permanece activo son **múltiples aristas civiles en tramitación**, algunas en tribunales de Valparaíso y Concepción además de Santiago. CORFO tenía al menos 26 demandas civiles del mismo tipo activas, lo que explica por qué la cifra recuperada sigue incrementándose lentamente.
+
+**Dato relevante sobre montos judiciales:** La sentencia de primera instancia del juez Carlos Gajardo ordenó el pago de más de $61.372 MM en la arista civil principal. Esa cifra es considerablemente mayor al monto confirmado por la Corte Suprema ($26.462 MM) porque los tribunales superiores acogieron recursos de apelación que redujeron lo ordenado restituir. La diferencia no implica que el daño fuera menor, sino que parte del daño no fue judicialmente acreditado con los estándares requeridos para la condena.
+
+---
+
+## Involucrados, roles y cercanía política
+
+| Nombre | Rol en la trama | Condena | Cercanía política |
+|---|---|---|---|
+| **Eduardo Monasterio Lara** | Presidente del holding Inverlink. Cabeza de la operación fraudulenta. Falleció en febrero de 2015 sin cumplir condena efectiva. | 541 días remisión condicional (en libertad) | Sin militancia conocida. Empresario financiero. |
+| **Enzo Bertinelli Villagra** | Gerente General de Inverlink Corredores de Bolsa. Receptor de información privilegiada filtrada desde el Banco Central. Mantenía relación sentimental con Pamela Andrada. | 5 años de presidio | Sin militancia conocida. |
+| **Ignacio Wulf Hitschfeld** | Ejecutivo clave del holding. Partícipe de las operaciones fraudulentas. | 5 años de presidio (confirmado por Corte Suprema) | Sin militancia conocida. |
+| **Javier Moya Cucurella** | Tesorero de CORFO. Figura central del fraude desde dentro del Estado: robó documentos de depósitos a plazo y los entregó a Inverlink. | 800 días presidio (arista Mercado de Valores) + 5 años y un día (malversación) | Funcionario público. Sin militancia conocida. |
+| **Pamela Andrada** | Secretaria del presidente del Banco Central. Filtró información reservada a Inverlink. Su error al reenviar un mail destapó el caso. | Condena en arista Banco Central | Sin militancia conocida. |
+| **Francisco Edwards Braun** | Ejecutivo de Inverlink. | 5 años de presidio | Sin militancia conocida. |
+| **Juan Pablo Prieto Viviani** | Ejecutivo de BBVA Corredora de Bolsa. Intermediario en operaciones trianguladas. | 541 días remisión condicional | Sin militancia conocida. |
+| **Gino Tirapegui Palomino** | Ejecutivo de Scotiabank. Intermediario. Scotiabank pagó $3.000 MM extrajudicialmente. | 541 días remisión condicional | Sin militancia conocida. |
+| **Gonzalo Rivas** | Vicepresidente ejecutivo de CORFO. Yerno del presidente Ricardo Lagos (casado con su hija Ximena). No fue formalizado ni condenado, pero renunció por responsabilidad política. | Sin condena | **DC / Lagos. Vínculo directo con La Moneda.** Hoy trabaja en el BID. |
+| **Carlos Massad** | Presidente del Banco Central. Fue quien descubrió el caso, pero el escándalo comprometió su gestión. Renunció. | Sin condena | **DC. Cercano al gobierno de Lagos.** |
+| **Álvaro Clarke** | Superintendente de Valores y Seguros (SVS). Renunció tras el escándalo. | Sin condena | Cercano al gobierno de Lagos. |
+| **Álvaro García** | Exministro de Economía (gobierno de Frei). Procesado por complicidad en estafa y fraude al fisco. Habría pedido al alcalde de Viña del Mar no retirar un depósito de $1.500 MM en Inverlink. | Procesado, no condenado | **PPD. Ministro durante gobierno de Frei Ruiz-Tagle.** Posteriormente embajador en Suecia y nombrado en gobierno de Boric. |
+
+---
+
+## Descripción para la app
+
+En febrero de 2003, el holding financiero Inverlink —liderado por Eduardo Monasterio— sustrajo $85.000 millones en depósitos a plazo de CORFO con la complicidad de Javier Moya, tesorero de la institución. La trama salió a la luz por accidente: el presidente del Banco Central, Carlos Massad, recibió por error un correo que revelaba que su secretaria filtraba información reservada al gerente de Inverlink. El escándalo salpicó al gobierno de Ricardo Lagos a través de Gonzalo Rivas, su yerno y vicepresidente ejecutivo de CORFO, quien renunció asumiendo responsabilidad política. Algunas fuentes estiman que el daño total, considerando al Banco Central, municipios y otros afectados, superó los $110.000 millones. Este proyecto trabaja con los $85.000 millones correspondientes al daño directo al patrimonio público de CORFO. Ajustado por inflación a pesos de diciembre de 2025, ese monto equivale a cerca de $201.000 millones. Veinte años después, la institución ha recuperado $55.696 millones; el resto aún se disputa en tribunales civiles.
+
+---
+
+## Notas pendientes
+
+- [x] ~~Monitorear estado de aristas civiles pendientes en tribunales de Valparaíso y Concepción~~ — **Verificado marzo 2026.** Hay 27 demandas civiles activas por provecho del dolo ajeno y uso de información privilegiada, con recursos pendientes en la Corte Suprema y la Corte de Apelaciones de Santiago, además de acciones en Valparaíso y Concepción. No hay actividad judicial nueva relevante desde 2023. Los montos de la ficha no requieren cambios.
+# Caso 5: Milicogate — Fraude a la Ley Reservada del Cobre
+
+**Carpeta:** `Corrupción Chile / 01_Casos`
+**Estado:** ✅ Ficha completa — factor IPC verificado en calculadora oficial INE
+
+---
+
+## Naturaleza del caso — distinción metodológica
+
+A diferencia de los casos SQM y Penta, el Milicogate sí involucra sustracción directa de fondos públicos. El mecanismo fue el desvío de dineros provenientes de la Ley Reservada del Cobre —un fondo secreto que entregaba el 10% de las ventas de Codelco a las Fuerzas Armadas sin control de la Contraloría ni del Congreso— mediante boletas y facturas ideológicamente falsas de proveedores confabulados con oficiales del Ejército.
+
+La naturaleza secreta del fondo es en sí misma parte del problema: al no existir fiscalización externa, el fraude pudo operar durante años sin control. La derogación de la Ley Reservada del Cobre en 2019 fue en parte consecuencia directa de este caso.
+
+Este caso además cruza la línea entre dictadura y democracia: la Ley Reservada del Cobre fue creada y modificada durante la dictadura de Pinochet, operó en secreto durante toda la transición democrática y el fraude se ejecutó entre 2010 y 2014, durante el primer gobierno de Piñera.
+
+---
+
+## Montos y ajuste inflacionario
+
+| Concepto | Monto |
+|---|---|
+| Monto establecido por indagatoria judicial (causa madre, marzo 2019) | ~$6.100 MM CLP |
+| Monto imputado a Fuente-Alba (arista lavado de activos, fiscal Morales) | ~$7.000 MM CLP |
+| Monto imputado a Fuente-Alba (arista malversación, justicia militar) | ~$2.980 MM CLP |
+| Monto estimado arista FAMAE (facturas duplicadas, 2008–2015) | ~US$83 MM (investigación en curso, sin cierre judicial) |
+| Año de referencia para ajuste IPC | 2012 (año promedio del período 2010–2014) |
+| Factor IPC acumulado diciembre 2012 → diciembre 2025 | ×1,747 (verificado en calculadora oficial INE) |
+| **Monto ajustado a pesos de diciembre 2025** | **~$10.657 MM CLP** |
+
+**Decisión metodológica:** Se usan los $6.100 MM CLP de la causa madre como monto base por ser la cifra establecida judicialmente por la ministra en visita Romy Rutherford a marzo de 2019 y la más consistente entre fuentes. La arista FAMAE, aunque potencialmente mucho mayor, permanece bajo investigación sin cierre judicial y no se puede incorporar sin comprometer el rigor metodológico del proyecto. Se incluye en el disclaimer como nota aclaratoria de que el daño total podría ser significativamente mayor.
+
+**Nivel de disclaimer:** "Dato estimado con complejidad procesal". El monto base corresponde a la causa madre en justicia civil. El principal imputado, Juan Miguel Fuente-Alba, fue absuelto en mayo de 2024 por lavado de activos —y ratificado por la Corte Suprema en febrero de 2026— debido a deficiencias en la investigación del Ministerio Público, aunque el propio tribunal acreditó el delito base de malversación. La causa en sede militar permanece abierta. Hay condenas firmes para los escalones inferiores de la trama.
+
+---
+
+## Tabla de fuentes con links
+
+| Fuente | Contenido | Tipo | Fecha | Link |
+|---|---|---|---|---|
+| The Clinic (investigación original) | Primera serie de reportajes que destapó el caso; grabaciones secretas de oficiales | Investigativa | Agosto 2015 | [ver nota](https://www.theclinic.cl/2015/08/13/milicogate-el-gran-robo-del-fondo-reservado-del-cobre/) |
+| The Clinic (libro Mauricio Weibel) | Historia completa del caso: origen en dictadura, operación durante democracia, cifras detalladas | Libro / Investigativa | 2016 | [ver libro](https://books.google.com/books/about/Traici%C3%B3n_a_la_patria.html?id=tKcGDAAAQBAJ) |
+| El Mostrador (Ureta procesado) | Procesamiento del primer general de alto rango, Héctor Ureta | Periodística | Febrero 2018 | [ver nota](https://www.laizquierdadiario.cl/Cae-el-primer-peso-pesado-en-caso-Milicogate) |
+| El Mostrador (tres generales CAF) | Procesamiento de Cordero, Salas y Muñoz del Comando de Apoyo a la Fuerza | Periodística | Septiembre 2016 | [ver nota](https://www.elmostrador.cl/noticias/pais/2016/09/30/milicogate-ex-jefe-de-escoltas-de-pinochet-y-lucia-entre-los-nuevos-procesados/) |
+| El Mostrador (gastos en casino) | Declaraciones de Clovis Montero: casinos, propiedades, caballos y fiestas | Periodística | Octubre 2015 | [ver nota](https://www.elmostrador.cl/noticias/pais/2015/10/06/milicogate-se-gastaron-los-fondos-reservados-del-cobre-en-casinos-propiedades-caballos-y-fiestas/) |
+| La Tercera (primeras condenas) | Excabo Cruz: 12 años de cárcel; exsargento Villagrán: 10 años y un día | Periodística | Febrero 2020 | [ver nota](https://www.latercera.com/nacional/noticia/caso-milicogate-condenan-12-anos-carcel-excabo-fraude-al-fisco/303143/) |
+| BioBioChile (absolución Fuente-Alba) | Absolución por lavado de activos; tribunal acredita malversación pero no su lavado | Periodística | Mayo 2024 | [ver nota](https://www.biobiochile.cl/noticias/nacional/chile/2024/05/13/justicia-absuelve-al-general-r-juan-miguel-fuente-alba-y-a-su-esposa.shtml) |
+| Interferencia (ni tan absuelto) | Análisis: tribunal absolvió por lavado pero acreditó la malversación base | Investigativa | Mayo 2024 | [ver nota](https://interferencia.cl/articulos/ni-tan-absuelto-si-bien-general-fuente-alba-fue-eximido-por-lavado-de-activos-veredicto) |
+| BioBioChile (Suprema ratifica absolución) | Corte Suprema confirma absolución de Fuente-Alba y su esposa, febrero 2026 | Periodística | Febrero 2026 | [ver nota](https://www.biobiochile.cl/noticias/nacional/chile/2026/02/03/suprema-ratifica-absolucion-de-excomandante-fuente-alba-y-su-esposa-anita-pinochet-por-malversacion.shtml) |
+| Cooperativa (absolución y causa militar abierta) | Fuente-Alba absuelto en sede civil; causa militar sigue abierta | Periodística | Mayo 2024 | [ver nota](https://cooperativa.cl/noticias/pais/ff-aa-y-de-orden/ejercito/general-fuente-alba-fue-absuelto-de-cargos-por-malversacion-de-caudales/2024-05-13/103759.html) |
+| Wikipedia (caso completo) | Cronología, involucrados, montos y estado procesal actualizado | Enciclopédica | 2025 | [ver nota](https://es.wikipedia.org/wiki/Milicogate) |
+| BCN — Biblioteca del Congreso (informe) | Sistematización de casos de corrupción en FF.AA., incluyendo Milicogate y subcasos | Académica / institucional | 2016 | [ver documento](https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio/10221/22526/1/Corrupci%C3%B3n+en+las+Fuerzas+Armadas+casos+m%C3%A1s+recientes.pdf) |
+
+---
+
+## Involucrados, roles y cercanía política
+
+### Militares — con condena firme
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Juan Carlos Cruz** | Cabo del Departamento de Apoyo y Planificación Financiera. Ejecutor clave del sistema de facturas falsas. Gastó más de $140 MM en el casino Monticello con fondos del fraude. | **12 años de presidio** (primera condena del caso, febrero 2020) | Sin militancia conocida. Suboficial de carrera. |
+| **Liliana Villagrán Vásquez** | Exsargento. Parte de la red de ejecución del fraude en la misma unidad que Cruz. | **10 años y un día de presidio** (primera condena del caso, febrero 2020) | Sin militancia conocida. Suboficial de carrera. |
+| **Jozo Santic Palomino** | Exdirector de Finanzas del Ejército. Condenado en arista "Tecnodata II" junto a otros tres militares por delitos reiterados de fraude al fisco y falsedad en materia de administración militar. | **Más de 13 años de presidio mayor en grado medio** (sentencia arista Tecnodata II, diciembre 2019, ministra Rutherford) | Sin militancia conocida. Oficial de carrera. |
+| **Tres militares adicionales — arista Tecnodata II** | Coronel y dos oficiales subalternos condenados junto a Santic por fraude al fisco y falsedad. | **Penas superiores a 6 años de presidio mayor en grado mínimo** cada uno (diciembre 2019) | Sin militancia conocida. |
+| **Clovis Montero** | Exteniente coronel. Extesorero del Estado Mayor del Ejército. Delató a sus superiores y detalló en 11 páginas manuscritas el funcionamiento del fraude. Fue procesado pese a declarar. | Procesado / condena en tramitación | Sin militancia conocida. Oficial de carrera. |
+| **Raúl Fuentes Quintanilla** | Civil. Proveedor externo del Ejército. Principal ejecutor de la emisión de facturas falsas. Investigado además por arista operaciones de paz. | Procesado / condena en tramitación | Sin militancia conocida. |
+
+### Militares — procesados o con causa abierta (altos mandos)
+
+| Nombre | Rol en la trama | Estado de la condena | Cercanía política |
+|---|---|---|---|
+| **Juan Miguel Fuente-Alba Poblete** | Excomandante en jefe del Ejército (2010–2014). El imputado de mayor rango. Fiscalía acusó desvío de ~$7.000 MM para uso personal junto a su esposa. El tribunal acreditó malversación pero absolvió por no probar el lavado posterior. | **Absuelto (lavado de activos) mayo 2024. Ratificado por Corte Suprema febrero 2026. Causa militar abierta.** | Sin militancia conocida. Asumió en los albores del primer gobierno de Piñera. |
+| **Anita María Pinochet** | Esposa de Fuente-Alba. Acusada de ser quien "blanqueaba" el dinero defraudado. Apodada "la Lucía chica" por la prensa. | **Absuelta junto a su marido, mayo 2024. Ratificado por Corte Suprema febrero 2026.** | Apellido vinculado a la familia del dictador. Sin militancia conocida. |
+| **Héctor Ureta Chinchón** | General en retiro. Excomandante de la División de Mantenimiento. Primer general de alto rango procesado. La ministra Rutherford señaló que hay presunciones fundadas de intervención directa. | Procesado. Causa activa en justicia militar. | Sin militancia conocida. Oficial de carrera. |
+| **Antonio Cordero Kehr** | General en retiro. Pertenecía al Comando de Apoyo a la Fuerza (CAF) entre 2011 y 2014. Procesado por incumplimiento de deberes militares. En 2024 fue nuevamente procesado junto a los coroneles en retiro Luis Mauricio Reyes Álvarez y Alex Gluzman Comte por fraude al fisco por $519 MM en la arista "Comercializadora CM" (resolución ministra Osorio, 2024). | Procesado (causa original). Procesado nuevamente en arista Comercializadora CM (2024). | Sin militancia conocida. Oficial de carrera. |
+| **Jorge Salas Kurte** | General en retiro. Pertenecía al CAF. Procesado. Exjefe de escoltas de Pinochet y de su esposa Lucía Hiriart. | Procesado. Libertad provisional. | Sin militancia conocida. Oficial de carrera con vínculos directos a la familia Pinochet. |
+| **Miguel Muñoz Farías** | General en retiro. Pertenecía al CAF. Procesado. | Procesado. Libertad provisional. | Sin militancia conocida. Oficial de carrera. |
+| **Humberto Oviedo Arriagada** | General. Sucesor de Fuente-Alba como comandante en jefe (2014–2018). Formalizado por lavado de activos sobre $240 MM. Segundo excomandante en jefe en ser formalizado por el Ministerio Público. | Formalizado por lavado de activos. Proceso activo (verificado marzo 2026). | Sin militancia conocida. Su gestión abarcó el segundo gobierno de Bachelet y parte del segundo de Piñera. |
+| **Óscar Izurieta Ferrer** | Excomandante en jefe del Ejército (2006–2010). Tercer excomandante en jefe formalizado. Formalizado por lavado de activos en enero 2025. La ministra Rutherford lo había procesado previamente por malversación en sede militar. El esquema investigado involucra desvío de fondos mediante gastos reservados. | Formalizado por lavado de activos (enero 2025). Procesado por malversación en sede militar. Proceso activo. | Sin militancia conocida. Su gestión precedió al período principal del fraude pero hay evidencia de continuidad del esquema. |
+
+**Nota sobre cercanía política:** El Milicogate no involucra a políticos civiles electos ni a partidos políticos. Es el único caso de los cinco que es estrictamente institucional-militar. Sin embargo, tiene tres conexiones políticas relevantes que deben mencionarse en la app: primero, el fraude se ejecutó entre 2010 y 2014 bajo el primer gobierno de Piñera, cuyo ministro de Defensa fue Andrés Allamand, quien presidió la comisión que detectó el problema pero fue criticado por no actuar más rápido; segundo, la Ley Reservada del Cobre que permitió el fraude fue creada y blindada durante la dictadura de Pinochet y sobrevivió durante toda la transición gracias al apoyo de los partidos de derecha que se opusieron a su derogación; tercero, Jorge Salas Kurte, uno de los generales procesados, fue exjefe de escoltas de Pinochet y de Lucía Hiriart, lo que ilustra la continuidad entre la red de confianzas de la dictadura y los altos mandos que protagonizaron el fraude.
+
+---
+
+## Descripción para la app
+
+Entre 2010 y 2014, un grupo de oficiales y suboficiales del Ejército de Chile desvió más de $6.100 millones de pesos de la época —equivalentes a unos $10.657 millones a pesos de diciembre de 2025— de la Ley Reservada del Cobre —un fondo secreto que entregaba el 10% de las ventas de Codelco a las Fuerzas Armadas sin control del Congreso ni de la Contraloría— mediante boletas y facturas falsas de proveedores confabulados. El dinero se gastó en casinos, propiedades y vehículos de lujo. El caso, conocido como Milicogate, fue destapado en 2015 por el periodista Mauricio Weibel en The Clinic, a partir de grabaciones secretas realizadas por los propios militares. El excomandante en jefe Juan Miguel Fuente-Alba —quien asumió el cargo días después del terremoto de 2010— fue absuelto en mayo de 2024 por lavado de activos debido a deficiencias en la investigación, aunque el tribunal acreditó el delito base de malversación. La Corte Suprema confirmó esa absolución en febrero de 2026. Las únicas condenas efectivas recayeron en los eslabones más bajos de la cadena: el excabo Juan Carlos Cruz fue condenado a 12 años de presidio. La investigación en sede militar sigue abierta. El escándalo contribuyó directamente a la derogación de la Ley Reservada del Cobre en 2019, poniendo fin a 61 años de fondos militares secretos. Investigaciones posteriores revelan que el daño podría ser significativamente mayor si se suman las aristas FAMAE, aún sin cierre judicial.
+
+---
+
+## Notas pendientes
+
+- [x] ~~Verificar factor IPC diciembre 2012 → diciembre 2025~~ — **Completado en sesión anterior.** Factor ×1,747 verificado en calculadora oficial INE. Monto ajustado: ~$10.657 MM CLP.
+- [x] ~~Calcular monto ajustado definitivo~~ — **Completado.** ~$10.657 MM CLP a pesos de diciembre 2025.
+- [x] ~~Monitorear estado de causa militar de Fuente-Alba~~ — **Verificado marzo 2026.** Corte Suprema ratificó absolución en sede civil en febrero 2026. La causa militar sigue abierta. Dato ya incorporado en la ficha.
+- [x] ~~Verificar estado procesal de Oviedo~~ — **Verificado marzo 2026.** Oviedo fue formalizado como segundo excomandante en jefe por el Ministerio Público por lavado de activos sobre $240 MM. Proceso activo. Adicionalmente, en enero 2025 fue formalizado Óscar Izurieta Ferrer (tercer excomandante en jefe) también por lavado de activos. Ambos actualizados en la tabla de involucrados.
+- [x] ~~Confirmar si hay condenas adicionales tras las primeras dos sentencias de febrero 2020~~ — **Verificado marzo 2026.** Sí. En diciembre 2019 (anterior a las condenas de febrero 2020), la ministra Rutherford dictó sentencia en la arista "Tecnodata II" condenando a cuatro militares incluyendo al exdirector de Finanzas Jozo Santic (más de 13 años) y otros tres militares (más de 6 años cada uno). En 2024 la ministra Osorio procesó a Cordero Kehr y dos coroneles en retiro en la arista "Comercializadora CM" ($519 MM). Todos los datos actualizados en la tabla de involucrados.
+# Caso 2: Pacogate — Fraude Carabineros
+
+**Carpeta:** `Corrupción Chile / 01_Casos`
+**Estado:** ✅ Ficha completa — factor IPC verificado en calculadora oficial INE
+
+---
+
+## Montos y ajuste inflacionario
+
+| Concepto | Monto |
+|---|---|
+| Monto base — causa madre (pesos diciembre 2017) | $28.348 MM CLP |
+| Factor IPC acumulado diciembre 2017 → diciembre 2025 | ×1,478 (inflación acumulada ~48%) |
+| **Monto ajustado a pesos de diciembre 2025** | **~$41.898 MM CLP** |
+| Monto total estimado incluyendo aristas adicionales | +$35.000 MM CLP (a valores 2020) |
+| Monto total bajo investigación incluyendo todas las aristas | ~$45.000 MM CLP (denuncia Chadwick 2018) |
+| Total de personas formalizadas | 132 (civiles y uniformados) |
+| Personas condenadas en procedimientos abreviados | +116 |
+
+**Metodología del ajuste inflacionario:** Factor ×1,478 obtenido directamente desde la calculadora oficial del INE (https://calculadoraipc.ine.cl), ingresando $1.000 pesos de diciembre 2017 y proyectando a diciembre 2025. El INE utiliza empalme entre bases históricas distintas, por lo que este valor tiene precedencia metodológica sobre cualquier cálculo alternativo. Se usa diciembre 2025 como año de referencia por ser el año cerrado más reciente con dato completo disponible. Este criterio se aplica de forma uniforme a todos los casos del proyecto.
+
+**Decisión metodológica:** Se usa $28.348 MM como monto base, correspondiente a la causa madre establecida por la Fiscalía para el juicio oral, por ser la cifra más consistente entre fuentes principales y la que tiene mayor respaldo procesal. Estimaciones que incluyen todas las aristas (gastos reservados, Fondo de Ahorro Habitacional) elevan el daño total a más de $35.000 MM.
+
+**Nivel de disclaimer:** Dato estimado con alta consistencia entre fuentes. El proceso judicial sigue activo en sus aristas más altas (ex generales directores González Jure y Villalobos). El monto podría aumentar con nuevas condenas.
+
+---
+
+## Tabla de fuentes con links
+
+| Fuente | Monto citado | Tipo | Fecha | Link |
+|---|---|---|---|---|
+| CIPER Chile (investigación original) | +$28.000 MM | Investigativa | Marzo 2017 | [ver nota](https://www.ciperchile.cl/2017/03/24/asi-operaba-la-asociacion-criminal-de-oficiales-de-carabineros/) |
+| CIPER Chile (alertas previas) | $8.000 MM (parcial) | Investigativa | Marzo 2017 | [ver nota](https://www.ciperchile.cl/2017/03/16/corrupcion-en-carabineros-las-mas-de-40-alertas-que-nadie-quiso-escuchar/) |
+| CIPER Chile (Ni orden ni patria) | +$28.000 MM | Investigativa | Mayo 2018 | [ver nota](https://www.ciperchile.cl/2018/05/31/ni-orden-ni-patria/) |
+| La Tercera (35 personas a juicio) | +$28.000 MM | Periodística | Febrero 2020 | [ver nota](https://www.latercera.com/nacional/noticia/las-35-personas-la-fiscalia-llevara-juicio-fraude-carabineros/503156/) |
+| El Mostrador (condena Gordon) | +$35.000 MM | Periodística | Octubre 2024 | [ver nota](https://www.elmostrador.cl/noticias/pais/2024/10/30/pacogate-condenan-a-exgeneral-gordon-por-arista-regalos-del-megafraude-en-carabineros/) |
+| El Mostrador (gastos reservados) | hasta 24 años pedidos | Periodística | Octubre 2023 | [ver nota](https://www.elmostrador.cl/noticias/pais/2023/10/24/pacogate-piden-hasta-24-anos-de-carcel-para-exgenerales-de-carabineros-por-caso-gastos-reservados/) |
+| BioBioChile (penas solicitadas) | +$28.000 MM | Periodística | Octubre 2023 | [ver nota](https://www.biobiochile.cl/noticias/nacional/chile/2023/10/24/pacogate-piden-24-anos-de-carcel-para-exdirectores-gonzalez-jure-y-villalobos-y-14-para-gordon.shtml) |
+| Cooperativa (acusación generales) | +$28.000 MM | Periodística | Octubre 2023 | [ver nota](https://cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/pacogate-fiscalia-pide-mas-de-20-anos-de-carcel-para-exdirectores-de/2023-10-24/070028.html) |
+| Interferencia (Fondo Habitacional) | ~$45.000 MM (todas aristas) | Investigativa | Mayo 2022 | [ver nota](https://interferencia.cl/articulos/carabineros-involucrados-en-pacogate-recibieron-1000-millones-en-prestamos-del-fondo-de) |
+| Interferencia (historial del caso) | ~$45.000 MM | Investigativa | Múltiple | [ver portal](https://interferencia.cl/casos/pacogate) |
+| Infobae / EFE (condena Gordon) | +$35.000 MM | Agencia internacional | Octubre 2024 | [ver nota](https://www.infobae.com/america/agencias/2024/10/30/justicia-chilena-condena-a-exjefe-policial-por-malversacion-de-fondos-publicos/) |
+| Wikipedia (con fuentes) | +$35.000 MM | Enciclopédica | 2024 | [ver nota](https://es.wikipedia.org/wiki/Pacogate) |
+
+---
+
+## Involucrados, roles y cercanía política
+
+| Nombre | Rol en la trama | Condena / Estado procesal | Cercanía política |
+|---|---|---|---|
+| **Héctor Nail Becerra** | Coronel. Uno de los principales reclutadores de cuentacorrentistas y organizadores del fraude en la Unidad de Intendencia. Distribuía el dinero malversado. | Condenado en juicio oral | Sin militancia conocida. Oficial de carrera. |
+| **Flavio Echeverría Cortez** | General. Exjefe de la Unidad de Intendencia. Ignoró la alerta del BancoEstado en 2015. Solicitado: 15 años y un día. | Juicio pendiente (acusado) | Sin militancia conocida. Oficial de carrera. |
+| **Jaime Paz Meneses** | Coronel. Liderazgo ejecutivo de la asociación ilícita. Impartía instrucciones sobre montos a sustraer y coordinaba la repartición. | Condenado en juicio oral | Sin militancia conocida. Oficial de carrera. |
+| **Fernando Pérez Barría** | Coronel. Malversó a lo menos $1.002 MM desde cuentas institucionales. Mayor número de préstamos irregulares del Fondo Habitacional (13 préstamos, $137,5 MM). | Condenado en juicio oral | Sin militancia conocida. Oficial de carrera. |
+| **Francisco Estrada Castro** | Capitán. Uno de los oficiales ejecutores en la cadena de mando del fraude. | Condenado | Sin militancia conocida. |
+| **Raúl Albayay Tapia** | Teniente coronel. Excontador jefe del Departamento de Finanzas. Procesado por malversación, fraude al fisco, asociación ilícita, lavado de activos y falsificación. Intentó eludir arresto devolviendo $70 MM. | Procesado, juicio pendiente | Sin militancia conocida. |
+| **Eduardo Gordon Valcárcel** | General director de Carabineros (2008–2011). El uniformado de mayor rango condenado hasta la fecha. Involucrado en arista "regalos" (gastos reservados para beneficio personal y de redes de apoyo). Desfalco acreditado: 604 UTM (~$40 MM). | **Condenado (noviembre 2024): 3 años y un día de presidio menor en grado máximo, libertad vigilada.** La Fiscalía pedía 10 años y un día; el tribunal aplicó atenuantes del artículo 103 del Código Penal. | Sin militancia conocida. Su gestión coincidió con los gobiernos de la Concertación y la primera administración de Piñera. |
+| **Gustavo González Jure** | General director (2011–2015). Acusado de 9 delitos de malversación y 4 de falsificación. Fiscalía pide 24 años. Cumplió prisión preventiva en la Escuela de Carabineros. | Juicio pendiente (acusado) | Sin militancia conocida. Su gestión abarcó el segundo mandato de Piñera. |
+| **Bruno Villalobos Krumm** | General director (2015–2018). Reconoció públicamente el fraude en marzo de 2017 y anunció expulsiones. Sin embargo, también está acusado de malversación de gastos reservados. Fiscalía pide 24 años. | Juicio pendiente (acusado) | Sin militancia conocida. Su gestión inició bajo la segunda administración de Bachelet y continuó bajo Piñera. |
+| **Iván Whipple Mejías** | General. Exdirector de finanzas de Carabineros. Acusado de 5 delitos reiterados de malversación. Fiscalía pide 15 años y un día. | Juicio pendiente (acusado) | Sin militancia conocida. |
+| **Hugo Zúñiga Pailamilla** | Civil. Exjefe de la Dirección de Presupuestos del Ministerio de Hacienda. Su inclusión en la causa revela que la trama alcanzó a funcionarios fuera de Carabineros. | Acusado, proceso activo | Funcionario público. Sin militancia conocida. |
+| **Juan Munieres** | Civil. Exfuncionario de la Contraloría General de la República. Acusado de integrar la asociación ilícita. Depósitos irregulares por $300 MM a través de terceros. | Acusado, proceso activo | Exfuncionario de Contraloría. Sin militancia conocida. |
+| **Marcela Cuevas** | Capitán. Departamento de Relaciones Públicas. Cómplice de Gordon en arista "regalos". | **Condenada (noviembre 2024): 2 años, reclusión parcial** | Sin militancia conocida. |
+
+**Nota sobre cercanía política:** A diferencia del Caso Corfo-Inverlink, el Pacogate no tiene vínculos directos con partidos políticos ni con funcionarios civiles electos. La trama fue interna a la institución policial y cruzó los gobiernos de Lagos, Bachelet (ambos períodos) y Piñera (primer período) sin que se haya establecido complicidad política externa. La inclusión de Hugo Zúñiga (Hacienda) y Juan Munieres (Contraloría) es el único punto de contacto con la administración civil, y ambos están aún en proceso judicial.
+
+---
+
+## Descripción para la app
+
+Entre 2006 y 2017, una organización criminal enquistada en la Dirección de Finanzas de Carabineros malversó más de $28.000 millones de pesos del patrimonio institucional. La trama, conocida como Pacogate, operó a través de tres mecanismos: desvíos desde cuentas de remuneraciones, desahucios y asignaciones hacia cuentas personales de una red de más de 130 funcionarios reclutados. La primera alerta la dio el BancoEstado en 2015, pero fue ignorada por el mando institucional. El caso fue reconocido públicamente en marzo de 2017 por el entonces general director Bruno Villalobos —quien hoy enfrenta cargos por malversación de gastos reservados— y desencadenó la peor crisis de imagen en la historia de Carabineros. Estimaciones que incluyen las aristas de gastos reservados y otras malversaciones elevan el daño total a más de $35.000 millones. Ajustado por inflación a pesos de diciembre de 2025, el monto de la causa madre equivale a cerca de $41.900 millones. En octubre de 2024 el exgeneral director Eduardo Gordon fue condenado; los juicios contra González Jure y Villalobos continúan.
+
+---
+
+## Notas pendientes
+
+- [x] ~~Confirmar estado procesal de González Jure y Villalobos~~ — **Verificado marzo 2026.** A la fecha no hay sentencia. La acusación está formulada con penas solicitadas de 24 años de presidio efectivo para González Jure y Villalobos por la arista "gastos reservados". El juicio sigue activo. Mantener como monitoreo activo.
+- [x] ~~Revisar sentencia de lectura de pena Gordon (22 noviembre 2024)~~ — **Verificado marzo 2026.** El 22 de noviembre de 2024 el Cuarto Tribunal Oral en lo Penal dictó la pena definitiva: **3 años y un día de presidio menor en grado máximo con libertad vigilada**. El tribunal aplicó atenuantes del artículo 103 del Código Penal que permitieron bajar de grado la pena. La Fiscalía había solicitado 10 años y un día. Actualizado en la tabla de involucrados de la ficha.
+- [x] ~~Verificar si Hugo Zúñiga (Hacienda) tiene condena o solo acusación~~ — **Verificado marzo 2026.** Solo acusación. La Fiscalía solicitó 10 años y un día de cárcel para Zúñiga por 10 delitos reiterados de malversación. Juicio pendiente. La ficha lo describe correctamente como "acusado, proceso activo".
+
